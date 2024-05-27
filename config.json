@@ -1,0 +1,6 @@
+{
+	"location": "./../pokerogue",
+	"destination": "http://localhost:8000",
+	"width": 1290,
+	"height": 755
+}
